@@ -75,6 +75,17 @@ if response["ok"]:
     client.comment(post_url, "comment")
 ```
 
+#### Follow
+```python
+from instasele import Client
+username = "account_username"
+password = "account_password"
+client = Client()
+login_response = client.login(username, password)
+if response["ok"]:
+    account_url = "instagram_account_url"
+    client.follow(account_url)
+```
 
 # Installation
 
