@@ -6,8 +6,8 @@
 *Author :* [**Al-Saeed Hassan**](https://t.me/DEV_BEN)\
 *Library :* [**instasele**](https://github.com/sa3ed7asan/instasele)\
 *License:* [**MIT License**](https://github.com/sa3ed7asan/instasele/blob/main/LICENSE)\
-*Release:* **08**/07/20**24**\
-*Version :* **0.0.1**
+*Release:* **28**/08/20**24**\
+*Version :* **0.0.5**
 
 If You Have Any Problem [Issues](https://github.com/sa3ed7asan/instasele/issues)
 
